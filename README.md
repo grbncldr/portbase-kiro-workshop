@@ -17,3 +17,11 @@ https://catalog.us-east-1.prod.workshops.aws/join?access-code=76ed-067b63-11
 ## Evaluation Link 
 
 https://www.metricsthatmatter.com/url/u.aspx?A39AA76DD233798085
+
+
+## Survey link :
+https://pulse.aws/survey/BJXJJHUY?p=0
+
+## Support & Questions : 
+Email : bbrice@amazon.nl
+
