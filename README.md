@@ -2,7 +2,7 @@
 
 ## Workshop Environment
 
-https://catalog.us-east-1.prod.workshops.aws/join?access-code=76ed-067b63-11
+https://catalog.us-east-1.prod.workshops.aws/join?access-code=026d-0b6350-42
 
 ### Fix for backend/scripts/prepare-lambda-packages.sh on linux
 
