@@ -16,9 +16,9 @@ https://catalog.us-east-1.prod.workshops.aws/join?access-code=b651-0c3a10-c7
 
 ## Evaluation Link 
 
-https://www.metricsthatmatter.com/url/u.aspx?C5552312D236867837
+ https://www.metricsthatmatter.com/url/u.aspx?E0B42561F236867889
  
-## Survey link :
+## Survey link
 https://pulse.aws/survey/BJXJJHUY?p=0
 
 ![QR code for evaluation](qr.png)
