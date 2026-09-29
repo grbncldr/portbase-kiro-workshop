@@ -4,7 +4,7 @@
 
 https://catalog.us-east-1.prod.workshops.aws/join?access-code=4109-0813ea-13
 
-### Fix for backend/scripts/prepare-lambda-packages.sh on linux
+## Fix for backend/scripts/prepare-lambda-packages.sh on linux
 
 ⏺ Fixed code for line 35-38:
 
