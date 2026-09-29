@@ -16,19 +16,16 @@ https://catalog.us-east-1.prod.workshops.aws/join?access-code=4109-0813ea-13
 
 ## Evaluation Link 
 
- https://www.metricsthatmatter.com/url/u.aspx?E0B42561F236867889
+https://www.metricsthatmatter.com/url/u.aspx?DA6CF3DBB240902532
  
 ## Survey link
 https://pulse.aws/survey/BJXJJHUY?p=0
 
 ![QR code for evaluation](qr.png)
 
-## Support & Questions : 
-Email : gerben@cloudar.nl
-
-## Connnect 
-
-Linkedin :  https://www.linkedin.com/in/gerbenvis
+## Support & Question 
+gerben@cloudar.nl
+https://www.linkedin.com/in/gerbenvis
 
 
 
