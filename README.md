@@ -24,7 +24,11 @@ https://pulse.aws/survey/BJXJJHUY?p=0
 ![QR code for evaluation](qr.png)
 
 ## Support & Questions : 
-Email : bbrice@amazon.nl
+Email : gerben@cloudar.nl
+
+## Connnect 
+
+Linkedin :  https://www.linkedin.com/in/gerbenvis
 
 
 
