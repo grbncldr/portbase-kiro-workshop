@@ -2,7 +2,7 @@
 
 ## Workshop Environment
 
-https://catalog.us-east-1.prod.workshops.aws/join?access-code=4109-0813ea-13
+https://catalog.us-east-1.prod.workshops.aws/join?access-code=58bc-0bb01f-9e
 
 ## Fix for backend/scripts/prepare-lambda-packages.sh on linux
 
@@ -19,7 +19,7 @@ https://catalog.us-east-1.prod.workshops.aws/join?access-code=4109-0813ea-13
 https://www.metricsthatmatter.com/url/u.aspx?DA6CF3DBB240902532
  
 ## Survey link
-https://pulse.aws/survey/BJXJJHUY?p=0
+https://pulse.amazon/survey/BJXJJHUY
 
 ![QR code for evaluation](qr.png)
 
